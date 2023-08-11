@@ -1,0 +1,35 @@
+#red{color: red}
+#blue{color: lightskyblue;}
+#orange{color: #EE6820}
+#green{color: #2CDE00;}
+#yellow{color: yellow;}
+#pink{color: #FE7CB1;}
+#brown{color: brown;}
+#black{color: black;}
+.color-title{
+    font-weight: bolder;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+
+}
+*{text-align: center;
+    align-self: center;
+}
+html{
+    background-color: #27374D;
+    background-color: ;
+    background-image: linear-gradient(to bottom right, #27374D, #E1DDD9);
+}
+
+h1{
+    color: whitesmoke; 
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 300px 300px 300px;
+    gap: 10px;
+}
