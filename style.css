@@ -13,7 +13,7 @@
 }
 
 .dark{
-    text-shadow: none;
+    text-shadow: none !important;
 }
 
 img{
