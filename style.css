@@ -23,18 +23,6 @@ img{
 
 }
 
-input{
-    display: block;
-    margin: auto;
-    background-color: #051224;
-    color: white;
-
-}
-
-.userfeed{
-    margin:30px;
-}
-
 @media (min-width: 900px) {   
     .grid{
         display: grid;
