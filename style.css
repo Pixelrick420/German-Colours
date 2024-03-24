@@ -20,7 +20,10 @@ img{
     height: 200px;
     width: 200px;
     border: 1px solid black;
+}
 
+body {
+    height: 95vh;
 }
 
 @media (min-width: 900px) {   
